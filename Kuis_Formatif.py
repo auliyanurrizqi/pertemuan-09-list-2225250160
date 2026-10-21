@@ -1,3 +1,10 @@
+
+# KUIS FORMATIF 3
+# Pertemuan 09 - List dan Pengolahan Data Numerik
+# Nama: Aulia Nurrizqi
+# NIM: 2225250160
+# Kelas: 3A
+
 print("=" * 50)
 print("       KUIS FORMATIF 3")
 print(" List dan Pengolahan Data Numerik")
